@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dev-essentials",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fespinoza/dev-essentials",
+      "state" : {
+        "branch" : "main",
+        "revision" : "959105824f1cbc38bdaeee6d78224b2988b21a9d"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -6,6 +6,9 @@
 //
 
 import UIKit
+@_exported import DevEssentials
+@_exported import DevEssentials_UIKit
+@_exported import DevEssentials_SwiftUI
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
